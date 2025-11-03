@@ -7,7 +7,7 @@ It features a sleek **glassmorphism UI**, smooth gradients, and dynamic conversi
 
 ## 🌐 Live Preview
 
-👉 **[View Live App](https://your-live-link-here.vercel.app)**  
+👉 **[View Live App]([https://your-live-link-here.vercel.app](https://currency-converter-react-umer.vercel.app/))**  
 
 
 ---
